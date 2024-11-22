@@ -150,6 +150,7 @@
                 id="api_url"
                 name="api_url"
                 :placeholder="t('API_URL_PLACEHOLDER')"
+                value="https://api.openai.com"
               />
 
               <input
